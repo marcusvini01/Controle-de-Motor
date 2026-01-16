@@ -1,0 +1,55 @@
+Altium Designer Pick and Place Locations
+D:\Projetos\Hardware\Altium\Motor_ctrl\Project Outputs for Motor_ctrl\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       14/01/26
+Time:       22:35
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"VDR","S10K30","TopLayer","VDR_D12H14.5-7.5","500.000","1130.000","0","Varistor 30VAC/48VDC"
+"PTC","0ZRN0100FF1E","TopLayer","PTC_LVR","755.000","750.000","90","Fusível Thermistor PTC"
+"X1","8MHz","TopLayer","Cristal_HC49S","2030.000","510.000","270","Cristal"
+"R6","10K","TopLayer","0603R","1725.000","162.500","0","Resistor Metal Filme"
+"R7","10K","TopLayer","0603R","1795.000","212.500","0","Resistor Metal Filme"
+"ICSP","Gravação in circuit","TopLayer","BP_1x4","1415.000","105.000","0","Barra de Pinos Macho 4p 11,2mm 180º"
+"C18","100nF/100V","TopLayer","0603C-GENERIC","2650.000","537.500","0","Capacitor Cerâmico SMD"
+"C17","100nF/100V","TopLayer","0603C-GENERIC","2650.000","422.500","0","Capacitor Cerâmico SMD"
+"U6","MAX3232CSE","TopLayer","SOIC127P600X175-16N","2380.000","540.000","180","Integrated Circuit"
+"U5","SFH618","TopLayer","FP-83911-MFG","1815.000","1275.000","90","Optocoupler Dc-in 1-CH Transistor Dc-out 4-PIN PDIP SMD T/r"
+"U4","SFH618","TopLayer","FP-83911-MFG","1055.000","430.000","0","Optocoupler Dc-in 1-CH Transistor Dc-out 4-PIN PDIP SMD T/r"
+"U3","IL2405S","TopLayer","IL_SERIES","1055.000","1010.000","0","Conversor DC/DC 2W"
+"U2","ITQ2424SA","TopLayer","SIP8_ITQ2424_XPR","1105.000","1770.000","0","No Description Available"
+"U1","STM32F103CBT6","TopLayer","LQFP-48","1695.000","515.000","180",""
+"R5","10K","TopLayer","0603R","1930.000","1657.500","180","Resistor Metal Filme"
+"R4","220R","TopLayer","0603R","1765.000","827.500","180","Resistor Metal Filme"
+"R3","470","TopLayer","Res_1206","745.000","425.000","270","Resistor Metal Filme"
+"R2","10K","TopLayer","0603R","1345.000","452.500","180","Resistor Metal Filme"
+"R1","10K","TopLayer","0603R","1665.000","832.500","180","Resistor Metal Filme"
+"Q1","STD5NM50AG","TopLayer","DPAK-3_ONS","2150.000","1588.750","0","Transistor N-Channel"
+"D2","MBRS360BT3G","TopLayer","DO-214AA(SMB)","2417.500","1815.500","90","Schottky Barrier Diode"
+"D1","MBRS360BT3G","TopLayer","DO-214AA(SMB)","142.500","1440.500","90","Schottky Barrier Diode"
+"CN4","DB9","TopLayer","618009231121","2810.079","620.000","90","Connector DB9"
+"CN3","MOTOR","TopLayer","AKZ700/2","2750.000","1815.000","90","2 pinos"
+"CN2","BOTAO","TopLayer","AKZ700/2","440.000","270.000","270","2 pinos"
+"CN1","FONTE","TopLayer","Power_Jack_694106301002","419.173","675.512","270","DC Power Jack"
+"C16","12pF/50V","TopLayer","0603C-GENERIC","2180.000","577.500","180","Capacitor Cerâmico"
+"C15","12pF/50V","TopLayer","0603C-GENERIC","2180.000","437.500","0","Capacitor Cerâmico"
+"C14","100nF/100V","TopLayer","0603C-GENERIC","2105.000","212.500","0","Capacitor Cerâmico SMD"
+"C13","100nF/100V","TopLayer","0603C-GENERIC","2580.000","537.500","180","Capacitor Cerâmico SMD"
+"C12","100nF/100V","TopLayer","0603C-GENERIC","2580.000","422.500","180","Capacitor Cerâmico SMD"
+"C11","100nF/100V","TopLayer","0603C-GENERIC","1415.000","452.500","180","Capacitor Cerâmico SMD"
+"C10","100nF/100V","TopLayer","0603C-GENERIC","745.000","192.500","180","Capacitor Cerâmico SMD"
+"C9","100nF/100V","TopLayer","0603C-GENERIC","1440.000","812.500","180","Capacitor Cerâmico SMD"
+"C8","100nF/100V","TopLayer","0603C-GENERIC","610.000","1497.500","180","Capacitor Cerâmico SMD"
+"C7","10uF/50V","TopLayer","CapE_SMD_D6.3_L5.8","1265.000","745.000","0","Capacitor Eletrolítico Radial SMD"
+"C6","10uF/50V","TopLayer","CapE_SMD_D6.3_L5.8","415.000","1430.000","0","Capacitor Eletrolítico Radial SMD"
+"C5","100nF/100V","TopLayer","0603C-GENERIC","1930.000","1887.500","180","Capacitor Cerâmico SMD"
+"C4","100nF/100V","TopLayer","0603C-GENERIC","620.000","1887.500","180","Capacitor Cerâmico SMD"
+"C3","10uF/50V","TopLayer","CapE_SMD_D6.3_L5.8","1735.000","1825.000","0","Capacitor Eletrolítico Radial SMD"
+"C2","10uF/50V","TopLayer","CapE_SMD_D6.3_L5.8","415.000","1820.000","0","Capacitor Eletrolítico Radial SMD"
+"C1","100nF/100V","TopLayer","0603C-GENERIC","1860.000","212.500","180","Capacitor Cerâmico SMD"

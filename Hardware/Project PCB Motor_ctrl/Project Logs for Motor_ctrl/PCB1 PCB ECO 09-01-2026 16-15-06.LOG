@@ -1,0 +1,43 @@
+Added Component: Designator=C17(0603C-GENERIC)
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Protheus"; Value = "E3CSC012P0002"; VariantName = "[No Variations]"
+Added Component: Designator=C18(0603C-GENERIC)
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Protheus"; Value = "E3CSC012P0002"; VariantName = "[No Variations]"
+Added Component: Designator=ICSP(BP 1x4)
+Add component (AddParameter): Name = "Protheus"; Value = "E5CNM18004003"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603R)
+Add component (AddParameter): Name = "Protheus"; Value = "E3RSM010K0002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603R)
+Add component (AddParameter): Name = "Protheus"; Value = "E3RSM010K0002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=X?(Cristal HC49S)
+Add component (AddParameter): Name = "Protheus"; Value = "E2CRST0000004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GNDD Pin=C17-1
+Added Pin To Net: NetName=OSC_IN Pin=C17-2
+Added Pin To Net: NetName=GNDD Pin=C18-1
+Added Pin To Net: NetName=OSC_OUT Pin=C18-2
+Added Pin To Net: NetName=5VD Pin=ICSP-1
+Added Pin To Net: NetName=GNDD Pin=ICSP-2
+Added Pin To Net: NetName=DIO Pin=ICSP-3
+Added Pin To Net: NetName=DCLK Pin=ICSP-4
+Added Pin To Net: NetName=5VD Pin=R?-1
+Added Pin To Net: NetName=BOOT Pin=R?-1
+Added Pin To Net: NetName=GNDD Pin=R?-2
+Added Pin To Net: NetName=RESET Pin=R?-2
+Added Pin To Net: NetName=MOTOR Pin=U1-15
+Added Pin To Net: NetName=BOT Pin=U1-32
+Added Pin To Net: NetName=OSC_OUT Pin=X?-1
+Added Pin To Net: NetName=OSC_IN Pin=X?-2
+Added Member To Class: ClassName=Sheet1 Member=Component C17 12pF/50V
+Added Member To Class: ClassName=Sheet1 Member=Component C18 12pF/50V
+Added Member To Class: ClassName=Sheet1 Member=Component ICSP Gravação in circuit
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component X? 8MHz

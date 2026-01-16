@@ -1,0 +1,223 @@
+Added Component: Designator=C1(0603C-GENERIC)
+Add component (AddParameter): Name = "Protheus"; Value = "E3CSC100N0002"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CapE SMD D6.3 L5.8)
+Add component (AddParameter): Name = "Protheus"; Value = "E3CS3010U0003"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CapE SMD D6.3 L5.8)
+Add component (AddParameter): Name = "Protheus"; Value = "E3CS3010U0003"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0603C-GENERIC)
+Add component (AddParameter): Name = "Protheus"; Value = "E3CSC100N0002"; VariantName = "[No Variations]"
+Added Component: Designator=C5(0603C-GENERIC)
+Add component (AddParameter): Name = "Protheus"; Value = "E3CSC100N0002"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CapE SMD D6.3 L5.8)
+Add component (AddParameter): Name = "Protheus"; Value = "E3CS3010U0003"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CapE SMD D6.3 L5.8)
+Add component (AddParameter): Name = "Protheus"; Value = "E3CS3010U0003"; VariantName = "[No Variations]"
+Added Component: Designator=C8(0603C-GENERIC)
+Add component (AddParameter): Name = "Protheus"; Value = "E3CSC100N0002"; VariantName = "[No Variations]"
+Added Component: Designator=C9(0603C-GENERIC)
+Add component (AddParameter): Name = "Protheus"; Value = "E3CSC100N0002"; VariantName = "[No Variations]"
+Added Component: Designator=C10(0603C-GENERIC)
+Add component (AddParameter): Name = "Protheus"; Value = "E3CSC100N0002"; VariantName = "[No Variations]"
+Added Component: Designator=C11(0603C-GENERIC)
+Add component (AddParameter): Name = "Protheus"; Value = "E3CSC100N0002"; VariantName = "[No Variations]"
+Added Component: Designator=C12(0603C-GENERIC)
+Add component (AddParameter): Name = "Protheus"; Value = "E3CSC100N0002"; VariantName = "[No Variations]"
+Added Component: Designator=C13(0603C-GENERIC)
+Add component (AddParameter): Name = "Protheus"; Value = "E3CSC100N0002"; VariantName = "[No Variations]"
+Added Component: Designator=C14(0603C-GENERIC)
+Add component (AddParameter): Name = "Protheus"; Value = "E3CSC100N0002"; VariantName = "[No Variations]"
+Added Component: Designator=C15(0603C-GENERIC)
+Add component (AddParameter): Name = "Protheus"; Value = "E3CSC100N0002"; VariantName = "[No Variations]"
+Added Component: Designator=C16(0603C-GENERIC)
+Add component (AddParameter): Name = "Protheus"; Value = "E3CSC100N0002"; VariantName = "[No Variations]"
+Added Component: Designator=CN1(AKZ700/2)
+Added Component: Designator=CN2(AKZ700/2)
+Added Component: Designator=CN3(AKZ700/2)
+Added Component: Designator=CN4(618009231121)
+Add component (AddParameter): Name = "Mouser"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Protheus"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(DO-214AA(SMB))
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "BAT54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montar"; Value = "Sim"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Protheus"; Value = "E2DIOD0000018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BAT54FSCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DO-214AA(SMB))
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "BAT54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montar"; Value = "Sim"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Protheus"; Value = "E2DIOD0000018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BAT54FSCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(DPAK-3_ONS)
+Add component (AddParameter): Name = "Protheus"; Value = "E2TRAN0000008"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0603R)
+Add component (AddParameter): Name = "Protheus"; Value = "E3RSM010K0002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0603R)
+Add component (AddParameter): Name = "Protheus"; Value = "E3RSM010K0002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Res 1206)
+Add component (AddParameter): Name = "Protheus"; Value = "E3RSM430R0001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603R)
+Add component (AddParameter): Name = "Protheus"; Value = "E3RSM010K0002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0603R)
+Add component (AddParameter): Name = "Protheus"; Value = "E3RSM010K0002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U1(LQFP-48)
+Add component (AddParameter): Name = "Part Number"; Value = "E2UMIC0000012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Protheus"; Value = "E2UMIC0000012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SIP8_ITQ2424_XPR)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "XP Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ITQ2424SA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U3(IL SERIES)
+Add component (AddParameter): Name = "Part Number"; Value = "E2CONV0000006"; VariantName = "[No Variations]"
+Added Component: Designator=U4(FP-83911-MFG)
+Add component (AddParameter): Name = "Protheus"; Value = "E2UACO0000007"; VariantName = "[No Variations]"
+Added Component: Designator=U5(FP-83911-MFG)
+Add component (AddParameter): Name = "Protheus"; Value = "E2UACO0000007"; VariantName = "[No Variations]"
+Added Component: Designator=U6(SOIC127P600X175-16N)
+Add component (AddParameter): Name = "Protheus"; Value = "E2UGER0000019"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5VA Pin=C3-1
+Added Pin To Net: NetName=5VA Pin=C5-2
+Added Pin To Net: NetName=5VA Pin=C14-1
+Added Pin To Net: NetName=5VA Pin=CN3-2
+Added Pin To Net: NetName=5VA Pin=D2-2
+Added Pin To Net: NetName=5VA Pin=U2-6
+Added Pin To Net: NetName=5VA Pin=U5-4
+Added Pin To Net: NetName=5VA Pin=U6-16
+Added Net: Name=5VA
+Added Pin To Net: NetName=5VD Pin=C1-2
+Added Pin To Net: NetName=5VD Pin=C7-1
+Added Pin To Net: NetName=5VD Pin=C9-2
+Added Pin To Net: NetName=5VD Pin=R2-1
+Added Pin To Net: NetName=5VD Pin=U1-1
+Added Pin To Net: NetName=5VD Pin=U1-9
+Added Pin To Net: NetName=5VD Pin=U1-24
+Added Pin To Net: NetName=5VD Pin=U1-36
+Added Pin To Net: NetName=5VD Pin=U1-48
+Added Pin To Net: NetName=5VD Pin=U3-4
+Added Net: Name=5VD
+Added Pin To Net: NetName=BOOT Pin=U1-44
+Added Net: Name=BOOT
+Added Pin To Net: NetName=BOT Pin=C11-2
+Added Pin To Net: NetName=BOT Pin=R2-2
+Added Pin To Net: NetName=BOT Pin=U4-4
+Added Net: Name=BOT
+Added Pin To Net: NetName=DCLK Pin=U1-37
+Added Net: Name=DCLK
+Added Pin To Net: NetName=DIO Pin=U1-34
+Added Net: Name=DIO
+Added Pin To Net: NetName=GNDA Pin=C3-2
+Added Pin To Net: NetName=GNDA Pin=C5-1
+Added Pin To Net: NetName=GNDA Pin=Q1-2
+Added Pin To Net: NetName=GNDA Pin=R5-2
+Added Pin To Net: NetName=GNDA Pin=U2-7
+Added Net: Name=GNDA
+Added Pin To Net: NetName=GNDD Pin=C1-1
+Added Pin To Net: NetName=GNDD Pin=C7-2
+Added Pin To Net: NetName=GNDD Pin=C9-1
+Added Pin To Net: NetName=GNDD Pin=C11-1
+Added Pin To Net: NetName=GNDD Pin=C14-2
+Added Pin To Net: NetName=GNDD Pin=C15-2
+Added Pin To Net: NetName=GNDD Pin=C16-2
+Added Pin To Net: NetName=GNDD Pin=CN4-5
+Added Pin To Net: NetName=GNDD Pin=R1-2
+Added Pin To Net: NetName=GNDD Pin=U1-8
+Added Pin To Net: NetName=GNDD Pin=U1-23
+Added Pin To Net: NetName=GNDD Pin=U1-35
+Added Pin To Net: NetName=GNDD Pin=U1-47
+Added Pin To Net: NetName=GNDD Pin=U3-3
+Added Pin To Net: NetName=GNDD Pin=U4-3
+Added Pin To Net: NetName=GNDD Pin=U5-2
+Added Net: Name=GNDD
+Added Pin To Net: NetName=GNDP Pin=C2-2
+Added Pin To Net: NetName=GNDP Pin=C4-1
+Added Pin To Net: NetName=GNDP Pin=C6-2
+Added Pin To Net: NetName=GNDP Pin=C8-1
+Added Pin To Net: NetName=GNDP Pin=C10-1
+Added Pin To Net: NetName=GNDP Pin=CN1-2
+Added Pin To Net: NetName=GNDP Pin=CN2-2
+Added Pin To Net: NetName=GNDP Pin=U2-1
+Added Pin To Net: NetName=GNDP Pin=U2-3
+Added Pin To Net: NetName=GNDP Pin=U3-1
+Added Pin To Net: NetName=GNDP Pin=U4-2
+Added Net: Name=GNDP
+Added Pin To Net: NetName=GND Pin=U6-15
+Added Net: Name=GND
+Added Pin To Net: NetName=MOTOR Pin=R4-1
+Added Net: Name=MOTOR
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=U6-1
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=U6-3
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=U6-4
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=U6-5
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=U6-2
+Added Net: Name=NetC15_1
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=U6-6
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetCN1_1 Pin=CN1-1
+Added Pin To Net: NetName=NetCN1_1 Pin=D1-1
+Added Net: Name=NetCN1_1
+Added Pin To Net: NetName=NetCN3_1 Pin=CN3-1
+Added Pin To Net: NetName=NetCN3_1 Pin=D2-1
+Added Pin To Net: NetName=NetCN3_1 Pin=Q1-3
+Added Net: Name=NetCN3_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R5-1
+Added Pin To Net: NetName=NetQ1_1 Pin=U5-3
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-20
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U4-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U5-1
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=OSC_IN Pin=U1-5
+Added Net: Name=OSC_IN
+Added Pin To Net: NetName=OSC_OUT Pin=U1-6
+Added Net: Name=OSC_OUT
+Added Pin To Net: NetName=RESET Pin=U1-7
+Added Net: Name=RESET
+Added Pin To Net: NetName=RS232_RX Pin=CN4-2
+Added Pin To Net: NetName=RS232_RX Pin=U6-14
+Added Net: Name=RS232_RX
+Added Pin To Net: NetName=RS232_TX Pin=CN4-3
+Added Pin To Net: NetName=RS232_TX Pin=U6-13
+Added Net: Name=RS232_TX
+Added Pin To Net: NetName=UART2_RX Pin=U1-13
+Added Pin To Net: NetName=UART2_RX Pin=U6-12
+Added Net: Name=UART2_RX
+Added Pin To Net: NetName=UART2_TX Pin=U1-12
+Added Pin To Net: NetName=UART2_TX Pin=U6-11
+Added Net: Name=UART2_TX
+Added Pin To Net: NetName=VIN Pin=C2-1
+Added Pin To Net: NetName=VIN Pin=C4-2
+Added Pin To Net: NetName=VIN Pin=C6-1
+Added Pin To Net: NetName=VIN Pin=C8-2
+Added Pin To Net: NetName=VIN Pin=C10-2
+Added Pin To Net: NetName=VIN Pin=CN2-1
+Added Pin To Net: NetName=VIN Pin=D1-2
+Added Pin To Net: NetName=VIN Pin=R3-2
+Added Pin To Net: NetName=VIN Pin=U2-2
+Added Pin To Net: NetName=VIN Pin=U3-2
+Added Net: Name=VIN
+Added Class: Name=Sheet1
